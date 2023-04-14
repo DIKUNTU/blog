@@ -3,9 +3,9 @@ title: "Benvenuto"
 weight: 1
 ---
 
-` ` Dikuntu ODV ti da il benvenuto. <br>
+Dikuntu ODV ti da il benvenuto. <br>
 
-Testo testo testo testo testo ecc. magari piccole illustrazioni, vedremo ecc.
+
 
 Socio, sostenitore o semplice curioso
 di qui si va per l'orto generoso,
@@ -19,7 +19,6 @@ non indugiar nel curiosare
 scorri questa pagina 
 e lasciati abbagliare.
 
-altro testo
 
-> El vientre gobierna la mente. --- Proverbio spagnolo
+   > El vientre gobierna la mente. --- Proverbio spagnolo
 
