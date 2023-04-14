@@ -22,7 +22,7 @@ DI - KU - NTU
 
 <b>Soci sostenitori:</b> <br>
 Si impegnano a sostenere i costi della preparazione del terreno, dello stipendio di un dipendente e degli oneri amministrativi.
-Contributo per l'anno in corso 700 Euro.
+Contributo per l'anno in corso 100 Euro.
 
 <b>Soci ordinari:</b> <br>
 Partecipano alle attività dell'odv condividendo gli scopi dell'associazione.
