@@ -6,15 +6,29 @@ weight: 2
 header_menu: true
 ---
 
-L'organizzazione di volontariato Dikuntu ODV nasce il 17 Marzo 2021. 
-<br>Gli obiettivi e le iniziative sono molte, tutte rivolte alla realizzazione di buone pratiche per sostenere e rispettare la terra:
+Il 17 marzo 2021 nasce Dikuntu ODV, associazione di
+volontariato che si propone di finanziare un progetto
+di agricoltura sostenibile e solidale per garantire
+l’assunzione a persone in stato di necessità, inizialmente a
+ragazzi stranieri regolarmente presenti sul nostro territorio,
+che difficilmente troverebbero un impiego continuativo per
+consentire loro una vita dignitosa.
+L'idea nasce dall'amicizia con un ragazzo del Ghana con
+una forte sensibilità per la terra e l'agricoltura, costretto
+a lasciare i nostri territori per finire in altre regioni in
+situazioni di caporalato e sfruttamento stagionale.
 
-- Armonia ed equità 
-- Accoglienza e dedizione 
-- Potenziale prima della forma
+<br>
+Crediamo nello sviluppo sostenibile ed in particolare contribuiamo, nel nostro piccolo,
+al raggiungimento degli obiettivi contenuti nell'Agenda 2030 dell'ONU
+(OSS, Obiettivi di Sviluppo Sostenibile), nello specifico ai punti:
 
-Questi ed altri aspetti trovano espressione nei termini cinesi che ne formano il nome e che, sebbene con accezioni diverse, significano terra:
-DI - KU - NTU
+- Salute e benessere.
+- Lavoro dignitoso e crescita economica.
+- Consumo e produzione responsabili.
+
+Per perseguire il nostro obiettivo di sostenibilità ambientale e sprechi zero, molti soci offrono il loro
+contributo con una donazione mensile ottenendo, ogni settimana, quello che la Terra generosamente ci regala.
 
 ---
 

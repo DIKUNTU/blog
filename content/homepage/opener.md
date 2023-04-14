@@ -6,19 +6,12 @@ weight: 1
 Dikuntu ODV ti da il benvenuto. <br>
 
 
-
-Socio, sostenitore o semplice curioso
-di qui si va per l'orto generoso,
-acqua terra e lavoro 
-per mangiar bene e aver dolce riposo,
-che siano rossi pomodori
-o piu ruvide verze
-il gusto per il vero
-da dikuntu non si perde,
-non indugiar nel curiosare
-scorri questa pagina 
-e lasciati abbagliare.
+L'associazione si propone di promuovere la terra ed i valori tradizionali
+ad essa collegati. Aspetti che trovano espressione nei tre termini, originari
+dell'antica filosofia cinese, che ne formano il nome. DI: accoglienza, dedizione terra,
+imparzialità - KUN: donare e ricevere, forza creativa, fecondità - TU: germoglio,
+armonia ed equità, terriccio, fiducia.
 
 
-   > El vientre gobierna la mente. --- Proverbio spagnolo
+   > La sua ricchezza consiste nel fatto che nutre tutti gli essere e la sua grandezza nel fatto che tutto abbelisce e magnifica. Così crea prosperità per tutto ciò che vive 
 
