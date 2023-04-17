@@ -9,6 +9,6 @@ header_use_video: false
 header_logo: "images/logo.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "Dikuntu"
+# header_headline: "Dikuntu"
 header_subheadline: "<b>Associazione</b> di <b> volontariato.</b>"
 ---
