@@ -1,7 +1,7 @@
 ---
 title: "L'associazione"
-header_menu_title: "Associazione"
-navigation_menu_title: "Associazione"
+header_menu_title: "CHI SIAMO"
+navigation_menu_title: "CHI SIAMO"
 weight: 2
 header_menu: true
 ---
