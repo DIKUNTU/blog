@@ -1,7 +1,15 @@
 #blog-logo {
   display: block;
-  max-height: 250px;
+  max-height: 290px;
   width: auto;
   margin: 0 auto;
   line-height: 0;
+  opacity: 0;
+}
+
+.header {
+  padding: 10px;
+  text-align: center;
+  background: #ae3e24;
+  font-size: 8px;
 }
