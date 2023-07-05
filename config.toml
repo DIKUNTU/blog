@@ -9,7 +9,7 @@ defaultContentLanguage = "en"
 theme = "hugo-scroll"
 
 # The browser tab name
-title = "Dikuntu"
+title = "DIKUNTU ODV"
 
 # In order to add version information in the page's footer set to true.
 # enableGitInfo = true
@@ -39,11 +39,11 @@ title = "Dikuntu"
     title = "Dikuntu - Associazione di volontariato"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "DIKUNTU"
+    description = "DIKUNTU ODV"
 
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Plain HTML is supported in here as well. So you may e.g. add a link to your legal imprint-page.
-    copyright = "© Dikuntu"
+    copyright = "© DIKUNTU ODV"
 
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don’t :-)
